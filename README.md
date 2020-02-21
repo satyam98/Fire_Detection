@@ -1,2 +1,2 @@
 # Fire_Detection
- Fire detection using OpenCV on Python
+Machine Learning project on Fire detection using OpenCV on Python
