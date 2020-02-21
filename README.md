@@ -1,2 +1,2 @@
 # Fire_Detection
- Fire detection using OpenCV and Python
+ Fire detection using OpenCV on Python
